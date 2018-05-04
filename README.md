@@ -34,6 +34,13 @@ PM2.5 Emissions Data (```summarySCC_PM25.rds```): This file contains a data fram
 | 24 | 09001 | 10200602 |  PM25-PRI |     1.490 | POINT | 1999 |
 ***
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 * ```fips```: A five-digit number (represented as a string) indicating the U.S. county
 * ```SCC```: The name of the source as indicated by a digit string (see source code classification table)
 * ```Pollutant```: A string indicating the pollutant
