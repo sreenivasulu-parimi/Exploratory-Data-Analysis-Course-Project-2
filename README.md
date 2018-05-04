@@ -32,6 +32,13 @@ PM2.5 Emissions Data (```summarySCC_PM25.rds```): This file contains a data fram
 | 20 | 09001 | 10200504 |  PM25-PRI |     0.388 | POINT | 1999 |
 | 24 | 09001 | 10200602 |  PM25-PRI |     1.490 | POINT | 1999 |
 
+|         | fips           | SCC  |
+| ------------- |:-------------:| -----:|
+| 4      | right-aligned | $1600 |
+| 8      | centered      |   $12 |
+| 12 | are neat      |    $1 |
+
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
