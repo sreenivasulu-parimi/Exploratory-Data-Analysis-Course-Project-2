@@ -32,6 +32,16 @@ PM2.5 Emissions Data (```summarySCC_PM25.rds```): This file contains a data fram
 | 20 | 09001 | 10200504 |  PM25-PRI |     0.388 | POINT | 1999 |
 | 24 | 09001 | 10200602 |  PM25-PRI |     1.490 | POINT | 1999 |
 
+|     | fips           | SCC  |
+| --- |:-------------:| -----:|
+| 4  | 09001 | 10100401 |
+| 8  | 09001 | 10100404 |
+| 12 | 09001 | 10100501 |
+| 16 | 09001 | 10200401 |
+| 20 | 09001 | 10200504 |
+| 24 | 09001 | 10200602 |
+
+
 |         | fips           | SCC  |
 | ------------- |:-------------:| -----:|
 | 4      | 09001 | 10100401 |
@@ -40,13 +50,6 @@ PM2.5 Emissions Data (```summarySCC_PM25.rds```): This file contains a data fram
 | 16 | 09001      |    10200401 |
 | 20 | 09001      |    10200504 |
 | 24 | 09001      |    10200602 |
-
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 
 * ```fips```: A five-digit number (represented as a string) indicating the U.S. county
