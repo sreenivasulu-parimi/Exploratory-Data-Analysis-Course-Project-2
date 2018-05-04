@@ -34,9 +34,12 @@ PM2.5 Emissions Data (```summarySCC_PM25.rds```): This file contains a data fram
 
 |         | fips           | SCC  |
 | ------------- |:-------------:| -----:|
-| 4      | right-aligned | $1600 |
-| 8      | centered      |   $12 |
-| 12 | are neat      |    $1 |
+| 4      | 09001 | 10100401 |
+| 8      | 09001      |   10100404 |
+| 12 | 09001      |    10100501 |
+| 16 | 09001      |    10200401 |
+| 20 | 09001      |    10200504 |
+| 24 | 09001      |    10200602 |
 
 
 | Tables        | Are           | Cool  |
